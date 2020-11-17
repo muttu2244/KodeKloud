@@ -1,0 +1,24 @@
+Administration
+
+-------------------
+
+HA Deployment
+K8s Scheduler
+Logging / Monitoring
+Application LifeCycle
+Maintenance
+Security
+TroubleShooting
+core Concepts
+
+
+
+Developers certification
+------------------------------
+ConfigMaps
+Secrets
+ServiceAccounts
+MultiCOntainer Pods
+Logging and monitoring
+Pod Designing
+services and networking
